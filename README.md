@@ -22,7 +22,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/image-caption-generator.git
+git clone https://github.com/kuldeep-jeengar/image-caption-generator.git
 cd image-caption-generator
 Create a virtual environment and activate it (optional but recommended):
 
